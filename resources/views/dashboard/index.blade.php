@@ -74,8 +74,7 @@
                                             <img src="{{ url('/storage/public/uploads/absensi/' . $absensi->foto_in) }}" alt="foto jam in" class="img-fluid" width="80" height="80" style="object-fit: cover; aspect-ratio: 1/1;">
                                         @else
                                             <ion-icon name="camera" style="font-size: 40px;"></ion-icon>
-                                        @endif
-                                    </div>                                    <div class="presencedetail">
+                                        @endif                                    </div>                                    <div class="presencedetail">
                                         <h4 class="presencetitle mb-1">Masuk</h4>
                                         <span class="text-muted">
                                             {{ $absensi ? \Carbon\Carbon::parse($absensi->jam_in)->format('H:i') : 'Belum Absen' }}

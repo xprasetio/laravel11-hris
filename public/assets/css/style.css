@@ -235,7 +235,7 @@ button:focus {
 }
 
 .appHeader.scrolled.bg-primary.is-active {
-  background: #1e74fd !important;
+  background: #b32534 !important;
 }
 
 .appHeader.scrolled.bg-primary.is-active .headerButton {
@@ -1573,7 +1573,7 @@ i.icon {
 
 .badge-primary,
 a.badge-primary {
-  background: #1e74fd !important;
+  background: #b32534 !important;
 }
 
 .badge-secondary,
@@ -2226,7 +2226,7 @@ a.badge-dark {
 }
 
 .btn-primary {
-  background: #1e74fd !important;
+  background: #b32534 !important;
   border-color: #1e74fd !important;
   color: #ffffff !important;
 }
@@ -2415,7 +2415,7 @@ a.badge-dark {
 }
 
 .btn-outline-primary.active {
-  background: #1e74fd !important;
+  background: #b32534 !important;
   color: #fff !important;
   border-color: #1e74fd !important;
 }
@@ -3635,7 +3635,7 @@ a.badge-dark {
 }
 
 .bg-primary {
-  background: #1e74fd !important;
+  background: #b32534 !important;
   color: #fff;
 }
 
@@ -3674,7 +3674,7 @@ a.badge-dark {
 }
 
 a.bg-primary {
-  background: #1e74fd !important;
+  background: #b32534 !important;
   color: #fff !important;
 }
 
@@ -4554,7 +4554,7 @@ textarea,
 }
 
 .custom-control .custom-control-input:checked ~ .custom-control-label:before {
-  background: #1e74fd !important;
+  background: #b32534 !important;
   border-color: #1e74fd !important;
 }
 
@@ -4892,7 +4892,7 @@ textarea,
 }
 
 .chip-primary {
-  background: #1e74fd !important;
+  background: #b32534 !important;
   color: #fff !important;
 }
 
