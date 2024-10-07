@@ -8,19 +8,25 @@
 </p>
 
 
- - Tampilan Login : 
+- Menu Login : 
 ![alt text](image.png)
-- Tampilan setelah login / menu dashboard : 
 ![alt text](image-1.png)
-- Tampilan Absen dengan koordinasi lokasi gmap
+
+- Menu Dashboard Setelah Login : 
 ![alt text](image-2.png)
-- Tampilan Seteleh absen 
+
+- Menu Absen Masuk : 
 ![alt text](image-3.png)
 ![alt text](image-4.png)
-- Tampilan Absen pulang
+
+- Menu Dashboard Setelah Absen masuk : 
 ![alt text](image-5.png)
 ![alt text](image-6.png)
 
-- Tampilan Setelah Absen Pulang 
+- Menu Absen Pulang : 
 ![alt text](image-7.png)
 ![alt text](image-8.png)
+
+- Menu Dashboard Setelah Absen Pulang :
+![alt text](image-9.png)
+![alt text](image-10.png)
